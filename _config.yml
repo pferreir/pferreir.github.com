@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://pferreir.github.com
+title: Rants
+subtitle: Uma colectânea de factos duvidosos e inutilidades.
+author: Pedro Ferreira
 simple_search: http://google.com/search
 description:
 
@@ -66,7 +66,7 @@ post_sidebar: post_default.html
 respectfully_social: true
 
 # Github repositories
-github_user:
+github_user: pferreir
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
@@ -98,7 +98,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: pferreir-rants
 disqus_show_comment_count: false
 disqus_developer: 0
 
