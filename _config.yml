@@ -67,7 +67,7 @@ respectfully_social: true
 
 # Github repositories
 github_user: pferreir
-github_repo_count: 0
+github_repo_count: 2
 github_show_profile_link: true
 github_skip_forks: true
 
@@ -80,7 +80,7 @@ twitter_show_follower_count: false
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: false
+google_plus_one: true
 google_plus_one_size: medium
 
 # Google Plus Profile
@@ -106,4 +106,4 @@ disqus_developer: 0
 google_analytics_tracking_id:
 
 # Facebook Like
-facebook_like: false
+facebook_like: true

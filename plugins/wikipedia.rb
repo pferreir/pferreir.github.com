@@ -1,0 +1,1 @@
+../../octopress_plugins/wikipedia/wikipedia.rb
